@@ -98,3 +98,12 @@ removing temporary backup
 Backup Completed Successfully
 Backup file
 /home/ubuntu/facebook/Backups/project_backup_2026-08-14_07-10-01.tar.gz
+
+Backup Automation of Facebook
+Creating backup directory
+Copying project file
+Compressing backup
+removing temporary backup
+Backup Completed Successfully
+Backup file
+/home/ubuntu/facebook/Backups/project_backup_2026-08-14_07-15-01.tar.gz
